@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Thang Dang — Full-stack developer and hardware tinkerer</title>
+  <title id="title">Thang Dang — Full-Stack Developer</title>
   <desc id="desc">A dark technical banner with blue and green accents.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -27,8 +27,8 @@
   <g transform="translate(72 74)">
     <rect x="0" y="0" width="54" height="5" rx="2.5" fill="url(#accent)"/>
     <text x="0" y="76" fill="#f8fafc" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="58" font-weight="700" letter-spacing="-2">Thang Dang</text>
-    <text x="2" y="124" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="22">Full-stack developer · Hardware tinkerer</text>
-    <text x="2" y="180" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18">Building useful things for the web and beyond.</text>
+    <text x="2" y="124" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="22">Full-Stack Developer · 15+ years of experience</text>
+    <text x="2" y="180" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18">Web applications · Business systems · APIs · Production</text>
   </g>
 
   <g transform="translate(968 100) scale(2.5)">
