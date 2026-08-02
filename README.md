@@ -48,7 +48,36 @@ I'm a Full-Stack Developer with 15+ years of experience building web application
 
 Explore more work and case studies at **[thangdv.com](https://thangdv.com/#projects)**.
 
-## Open-source work
+## Featured public projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏸 Tourna</h3>
+      <p>A full-stack tournament operations platform for badminton and pickleball—from registration and draws to scheduling, live scoring, standings, and brackets.</p>
+      <p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Drizzle</code></p>
+      <p>
+        <a href="https://github.com/vthang87/Tournament-Manager/tree/dev"><strong>Source</strong></a>
+        ·
+        <a href="https://vthang87.github.io/Tournament-Manager/"><strong>Documentation</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎛️ TouchDeck</h3>
+      <p>Custom ESP32-S3 touch-deck firmware with an LVGL app grid, BLE media controls, a WebSocket bridge, OTA updates, and a macOS companion.</p>
+      <p><code>ESP32-S3</code> <code>C/C++</code> <code>LVGL</code> <code>TypeScript</code> <code>Electron</code> <code>MIT</code></p>
+      <p>
+        <a href="https://github.com/vthang87/touchdeck"><strong>Source</strong></a>
+        ·
+        <a href="https://vthang87.github.io/touchdeck/"><strong>Documentation &amp; installer</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+> TouchDeck is open source under the MIT License. Tourna is source-available under the PolyForm Noncommercial License.
+
+## More public work
 
 <table>
   <tr>
